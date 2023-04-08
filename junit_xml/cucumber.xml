@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="72.664" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Deat Data creation" name="Free CRM Create a new deal Scenario" time="72.496">
+<system-out><![CDATA[
+Given iuser is already on Login Page........................................passed
+When title of login page is Free Crm........................................passed
+Then iuser enters username and password.....................................passed
+Then iuser clicks on login button...........................................passed
+Then iuser is on home page..................................................passed
+Then iuser move to new deal page............................................passed
+Then iuser enters deal details..............................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
